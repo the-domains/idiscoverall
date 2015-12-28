@@ -1,7 +1,7 @@
 name: iDiscoverAll
 favicon: null
-layout_spectrum: 0.5346217649057508
-typography_spectrum: 0.14058936946094036
+layout_spectrum: 0.89809
+typography_spectrum: 0.79617
 title: Innovative technology for product placement and discovery purposes.
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9532297451514751
-  lightness: 0.16526746051386
-  saturation: 0.9281049100682139
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.8125
   rhythmicContrast: 0.22807391011156142
 purpose: []
