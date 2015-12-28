@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Innovative technology for product placement and discovery purposes.
-datePublished: '2015-12-28T09:04:33.256Z'
-dateModified: '2015-12-28T09:04:08.573Z'
+datePublished: '2015-12-28T09:34:13.137Z'
+dateModified: '2015-12-28T09:28:16.099Z'
 title: iDiscoverAll
 author: []
 authors: []
