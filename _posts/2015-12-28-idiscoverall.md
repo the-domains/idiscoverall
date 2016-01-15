@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Innovative technology for product placement and discovery purposes.
-datePublished: '2015-12-28T09:34:13.137Z'
-dateModified: '2015-12-28T09:28:16.099Z'
+datePublished: '2016-01-15T12:28:28.567Z'
+dateModified: '2015-12-28T09:39:39.102Z'
 title: iDiscoverAll
 author: []
+sourcePath: _posts/2015-12-28-idiscoverall.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-28-idiscoverall.md
-published: true
 url: idiscoverall/index.html
 _type: Article
 
@@ -40,20 +40,16 @@ true sense for the object);
 
 Convenience push notifications based on users' preferences 
 
-• Playful and
+Playful and
 informative
-null
 
-• Convenienve push
-null
+Convenience push
 
-• Actionable commercial
+Actionable commercial
 Insights
-null
 
 _Half the money I spend
 on advertising is wasted; the trouble is I don't know which half._
 
 No more wasting money --
-only value for All: consumer; distributor; producer. null
-null
+only value for All: consumer; distributor; producer.
